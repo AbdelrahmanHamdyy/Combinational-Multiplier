@@ -1,0 +1,245 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vbcd_tb
+!s110 1620923128
+!i10b 1
+!s100 9@`[aSVoS_=D_GG;<gK3=2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQQblMzd7@`Jg1O5cLj?:N3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03
+w1620847910
+8D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd_tb.v
+FD:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd_tb.v
+!i122 116
+L0 2 23
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1620923128.000000
+!s107 bcd.v|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd_tb.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vBCDTo7Seg
+Z6 !s110 1620923131
+!i10b 1
+!s100 iY4=e:ihRiN7LLM`;A`[l0
+R0
+IS14`R7_hdkOh?WQ7A]QeQ3
+R1
+R2
+w1620683751
+8ssd.v
+Fssd.v
+!i122 120
+L0 1 18
+R3
+r1
+!s85 0
+31
+Z7 !s108 1620923130.000000
+!s107 ssd.v|bcd.v|mult4x4.v|mult_integrated.v|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult_integrated_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult_integrated_tb.v|
+!i113 1
+R4
+R5
+n@b@c@d@to7@seg
+vbinary_to_BCD
+!s110 1620671557
+!i10b 1
+!s100 8kNjlE>k?G@QY;c2bQd;i1
+R0
+Id13`F:114DPNEM7@f[lPD0
+R1
+R2
+w1620671553
+8D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd.v
+FD:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd.v
+!i122 63
+L0 1 49
+R3
+r1
+!s85 0
+31
+!s108 1620671557.000000
+!s107 D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/bcd.v|
+!i113 1
+R4
+R5
+nbinary_to_@b@c@d
+vbinary_to_bcd
+R6
+!i10b 1
+!s100 9Y2OmBeNh;b18LUe`WCS]2
+R0
+InMcz9?K`0;A=47zZ]QGPK3
+R1
+R2
+Z9 w1620692402
+Z10 8bcd.v
+Z11 Fbcd.v
+!i122 120
+L0 9 97
+R3
+r1
+!s85 0
+31
+R7
+Z12 !s107 ssd.v|bcd.v|mult4x4.v|mult_integrated.v|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult_integrated_tb.v|
+R8
+!i113 1
+R4
+R5
+vmult_integrated
+R6
+!i10b 1
+!s100 L1[:;Y?ARFD6J5g<HQ6Xm3
+R0
+Ie9nM2JLdJb[gCjW1mKI]@1
+R1
+R2
+w1620713857
+8mult_integrated.v
+Fmult_integrated.v
+!i122 120
+L0 5 41
+R3
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 1
+R4
+R5
+vmult_integrated_tb
+R6
+!i10b 1
+!s100 N=fG_`o6`]hDJ;1@[E3YV2
+R0
+IM0f8eW7QH2gVh^Z3L4mY32
+R1
+R2
+w1620848595
+8D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult_integrated_tb.v
+FD:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult_integrated_tb.v
+!i122 120
+L0 2 33
+R3
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 1
+R4
+R5
+vMultiplier
+R6
+!i10b 1
+!s100 EL61GU1[7lOel32]>`MJK2
+R0
+In;8FJ<Qm<eIGGaJ4OYl^K1
+R1
+R2
+w1620603463
+8mult4x4.v
+Fmult4x4.v
+!i122 120
+L0 1 12
+R3
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 1
+R4
+R5
+n@multiplier
+vMultiplier_tb
+!s110 1620923127
+!i10b 1
+!s100 Y:Ag;:fSE<7cmV^L4<JdR3
+R0
+IooLdPV<MROOk8zQiS^l3_0
+R1
+R2
+w1620603692
+8D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult4x4_tb.v
+FD:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult4x4_tb.v
+!i122 114
+L0 2 26
+R3
+r1
+!s85 0
+31
+!s108 1620923127.000000
+!s107 mult4x4.v|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult4x4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/Uni Material/1st Year/2nd Semester/Logic Design/Labs/Lab03/mult4x4_tb.v|
+!i113 1
+R4
+R5
+n@multiplier_tb
+vshift_add_3
+R6
+!i10b 1
+!s100 SmFchZ8COPf4>@_iC;=Gi2
+R0
+InEVD7L?d8cmQWD_jNo;jm2
+R1
+R2
+R9
+R10
+R11
+!i122 120
+L0 2 6
+R3
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 1
+R4
+R5
+vssd_tb
+!s110 1620923129
+!i10b 1
+!s100 IE`Gh8LQ=]j8RE9f[Q[e<2
+R0
+IY?CE8Pk5:JMA6C:>BnK<U2
+R1
+R2
+w1620675165
+8D:\University\Uni Material\1st Year\2nd Semester\Logic Design\Labs\Lab03\ssd_tb.v
+FD:\University\Uni Material\1st Year\2nd Semester\Logic Design\Labs\Lab03\ssd_tb.v
+!i122 118
+L0 2 22
+R3
+r1
+!s85 0
+31
+!s108 1620923129.000000
+!s107 ssd.v|D:\University\Uni Material\1st Year\2nd Semester\Logic Design\Labs\Lab03\ssd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\University\Uni Material\1st Year\2nd Semester\Logic Design\Labs\Lab03\ssd_tb.v|
+!i113 1
+R4
+R5

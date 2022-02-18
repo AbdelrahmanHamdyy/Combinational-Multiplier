@@ -1,0 +1,24 @@
+`include "ssd.v"
+module ssd_tb();
+
+reg[3:0] BCD;
+wire[6:0] seg;
+
+integer i;
+
+initial begin
+  $monitor("BCD=%d,Seg=%b",BCD,seg);
+  BCD = 0;
+  for (i = 1; i <= 10; i = i + 1)
+  begin
+    #5 BCD = i;
+  end
+end
+
+BCDTo7Seg B_7seg(
+BCD,
+seg
+);
+
+endmodule
+
